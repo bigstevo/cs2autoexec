@@ -4,7 +4,7 @@
 
 Create a new text document and paste in the Autoexec.
 
-Save in C:\Program Files (x86)\Steam\SteamApps\common\Counter-Strike Global Offensive\csgo\cfg
+Save in C:\Program Files (x86)\Steam\SteamApps\common\Counter-Strike Global Offensive\game\csgo\cfg
 
 Change file type to: All Files. Save as autoexec.cfg
 
