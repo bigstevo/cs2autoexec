@@ -1,5 +1,8 @@
 # BIG STEVE CS2 AUTOEXEC
 
+## Summary
+Configure CS2 via console commands and variables. Full list of commands [here](https://developer.valvesoftware.com/wiki/List_of_Counter-Strike_2_console_commands_and_variables)
+
 ## Installation
 
 Save under directory C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\game\csgo\cfg\autoexec.cfg
