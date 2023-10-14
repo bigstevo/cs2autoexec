@@ -2,13 +2,9 @@
 
 ## Installation
 
-Create a new text document and paste in the Autoexec.
-
 Save under directory C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\game\csgo\cfg\autoexec.cfg
 
-Change file type to: All Files. Save as autoexec.cfg
-
-Make sure config.cfg is not "Read-only"
+Manually exec ingame with command `exec autoexec`
 
 ## Other Settings
 + Windows Sensitivity: 6/11  
