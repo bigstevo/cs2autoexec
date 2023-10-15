@@ -5,7 +5,7 @@ Configure CS2 via console commands and variables. Full list of commands [here.](
 
 ## Installation
 
-Save under directory:
+Save under installation directory:
 ```
 C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\game\csgo\cfg\autoexec.cfg
 ```
