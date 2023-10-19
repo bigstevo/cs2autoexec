@@ -1,4 +1,4 @@
-# BIG STEVE CS2 AUTOEXEC
+# STEVE'S CS2 BIG CONFIG
 
 ## Summary
 Personal CS2 configuration file. Automatically executes on game start. Full list of CS2 commands and variables [here.](https://developer.valvesoftware.com/wiki/List_of_Counter-Strike_2_console_commands_and_variables)
