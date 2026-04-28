@@ -1,7 +1,9 @@
 # STEVE'S CS2 BIG CONFIG
 
 ## Summary
-Personal CS2 configuration file. Automatically executes on game start. Full list of CS2 commands and variables [here.](https://developer.valvesoftware.com/wiki/List_of_Counter-Strike_2_console_commands_and_variables)
+Personal CS2 configuration file.
+
+Commands and variables can be referenced [here.](https://developer.valvesoftware.com/wiki/List_of_Counter-Strike_2_console_commands_and_variables)
 
 ## Installation
 
@@ -10,9 +12,9 @@ Save under installation directory:
 C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\game\csgo\cfg\autoexec.cfg
 ```
 
-Test exec manually in-game with command:
+Add launch option to automatically execute on game start:
 ```
-exec autoexec
++exec autoexec
 ```
 
 ## Other Settings
