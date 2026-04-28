@@ -1,7 +1,7 @@
-# STEVE'S CS2 BIG CONFIG
+# STEVE CS2 CONFIG
 
 ## Summary
-Personal CS2 configuration file.
+Personal CS2 configuration file. Sets all preferences and custom controls.
 
 Commands and variables can be referenced [here.](https://developer.valvesoftware.com/wiki/List_of_Counter-Strike_2_console_commands_and_variables)
 
