@@ -26,5 +26,5 @@ Add launch option to automatically execute on game start:
 
 ## Crosshair Code
 ```
-CSGO-ioAWZ-yXOvy-voe42-Ud7P7-JHKeB
+CSk5D2qJRnYbpZbK5mJPuLY6ySJdPAzF78pzGkQT65uFih
 ```
